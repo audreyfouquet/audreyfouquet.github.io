@@ -1294,4 +1294,11 @@ input[type="text"] {
   max-height:4em;
 }
 
+
+.tech-icons-container{
+  display: flex;
+  gap: 30px;
+  padding-bottom: 5em;
+}
+
 /*# sourceMappingURL=style.css.map */
