@@ -1301,4 +1301,19 @@ input[type="text"] {
   padding-bottom: 5em;
 }
 
+.linkedin-logo{
+  color:#0a66c2;
+}
+.malt-logo > path{
+  fill: #FC5757;
+}
+
+.svg-link{
+  background:none !important;
+}
+
+.svg-white > path{
+  fill: white;
+}
+
 /*# sourceMappingURL=style.css.map */
